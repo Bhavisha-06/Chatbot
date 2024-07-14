@@ -79,7 +79,3 @@ For fine-tuning the model and additional training, refer to the following resour
 
 Contributions are welcome! Please create a pull request or open an issue to discuss any changes.
 
-## License
-
-This project is licensed under the MIT License.
-
